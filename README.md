@@ -27,7 +27,7 @@ The goal is to show how messy business data can be cleaned, structured, and prep
 ### Dataset
 
 The first module uses a dirty retail sales dataset containing transaction records with missing and inconsistent values.
-
+**Data Source:** [Retail Store Sales: Dirty for Data Cleaning (Kaggle)](https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning)
 ### Main Cleaning Tasks
 
 - Imported the raw dataset into Power Query
@@ -56,6 +56,7 @@ The first module uses a dirty retail sales dataset containing transaction record
 ### Dataset
 
 The second module uses a public invoice PDF dataset. The invoices contain client information, item details, and invoice summary totals.
+**Data Source:** [High-Quality OCR-Ready Invoice PDFs (Kaggle)](https://www.kaggle.com/datasets/devp1866/high-quality-ocr-ready-invoice-pdfs)
 
 ### Main Extraction and Cleaning Tasks
 
@@ -120,11 +121,3 @@ Contains invoice-level totals such as:
 - Documentation of cleaning decisions
 
 ---
-
-## Project Files
-
-```text
-01_raw_data/
-02_cleaned_workbooks/
-03_screenshots/
-README.md
